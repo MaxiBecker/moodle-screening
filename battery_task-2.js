@@ -515,7 +515,7 @@ const final_redirect = {
             safeFluencyRaw = safeFluencyRaw.substring(0, 1000) + "...(TRUNCATED)";
         }
 
-        const baseUrl = "https://duke.qualtrics.com/jfe/form/SV_6A3jqKXeNZx8oQK";
+        const baseUrl = "https://duke.qualtrics.com/jfe/form/SV_ekBaVVhRVtVYiHk";
         
         const redirectUrl = `${baseUrl}?part1_ID=${resId}` +
                             `&FluencyScore=${fluencyScore}` +
